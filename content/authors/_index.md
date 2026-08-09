@@ -53,7 +53,7 @@ user_groups:
 I am a Mathematician specializing in Artificial Intelligence and Machine Learning with a solid track record in deep generative modeling (VAEs). My research focus lies at the intersection of mathematics and machine learning, and I am actively preparing for a PhD in Intelligent Systems.
 
 My academic and professional journey includes:
-*   **Research Technician in Machine Learning** at the **Basque Center for Applied Mathematics (BCAM)** (09/2023 – 09/2024), where I worked on deep latent variable generative models under the mentorship of Dr. Iñigo Urteaga.
+*   **Research Technician in Machine Learning** at the **Basque Center for Applied Mathematics (BCAM)** (09/2023 – 09/2024), where I worked on deep latent variable generative models.
 *   **Research Assistant** in a joint program with **Mfano Africa & Oxford University** (07/2023 – 09/2023), focused on visibility network structures in complex time-series.
 *   **CFD Intern** at **University Félix Houphouët-Boigny** (11/2020 – 02/2021) studying permeability effects in water interfaces.
 

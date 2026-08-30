@@ -59,8 +59,17 @@ markup:
   _merge: deep
   highlight:
     lineNos: false
+
 security:
   _merge: deep
+  exec:
+    allow:
+      - '^(dart-)?sass$'
+      - '^go$'
+      - '^git$'
+      - '^node$'
+      - '^postcss$'
+      - '^tailwindcss$'
 
 # Configuration du Sitemap pour les robots de Google
 sitemap:
